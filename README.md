@@ -1,7 +1,3 @@
-Creating a well-documented README file is essential for any software project as it serves as the first point of interaction in a repository. For your Library Management System, a README should provide all necessary information to understand what the system does, how to set it up, run it, and details about its functionality. Here's a sample README structure and content tailored for your project:
-
----
-
 # Library Management System
 
 ## Overview
